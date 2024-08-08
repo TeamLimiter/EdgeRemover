@@ -7,10 +7,10 @@
 ---
 
 ### ⬇️ Usage
-You can use the command below in PowerShell to launch the script. Alternatively, get the latest script from the [GitHub releases](https://github.com/he3als/EdgeRemover/releases/latest).
+You can use the command below in PowerShell to launch the script. Alternatively, get the latest script from the [GitHub releases](https://github.com/TeamLimiter/EdgeRemover/releases/latest).
 
 ```powershell
-iex(irm https://cdn.jsdelivr.net/gh/he3als/EdgeRemover@main/get.ps1)
+iex(irm https://cdn.jsdelivr.net/gh/TeamLimiter/EdgeRemover@main/get.ps1)
 ```
 
 <p align="center">
@@ -22,7 +22,7 @@ iex(irm https://cdn.jsdelivr.net/gh/he3als/EdgeRemover@main/get.ps1)
 Download the script and run `Get-Help .\RemoveEdge.ps1` to see its options. You can either use the downloaded file directly with these arguments or put them into the snippet below:
 
 ```powershell
-iex "&{$(irm https://cdn.jsdelivr.net/gh/he3als/EdgeRemover@main/get.ps1)} [ARGUMENTS HERE]"
+iex "&{$(irm https://cdn.jsdelivr.net/gh/TeamLimiter/EdgeRemover@main/get.ps1)} [ARGUMENTS HERE]"
 ```
 
 <details>
@@ -30,7 +30,7 @@ iex "&{$(irm https://cdn.jsdelivr.net/gh/he3als/EdgeRemover@main/get.ps1)} [ARGU
 
   This would uninstall Edge, remove Edge's user-data, and install Edge WebView:
   ```powershell
-  iex "&{$(irm https://cdn.jsdelivr.net/gh/he3als/EdgeRemover@main/get.ps1)} -UninstallEdge -RemoveEdgeData -InstallWebView"
+  iex "&{$(irm https://cdn.jsdelivr.net/gh/TeamLimiter/EdgeRemover@main/get.ps1)} -UninstallEdge -RemoveEdgeData -InstallWebView"
   ```
 </details>
 
@@ -38,10 +38,10 @@ iex "&{$(irm https://cdn.jsdelivr.net/gh/he3als/EdgeRemover@main/get.ps1)} [ARGU
 You can use the command below in PowerShell to clear all EdgeUpdate policies, including those that block the reinstallation and update of Edge or WebView.
 
 ```powershell
-iex "&{$(irm https://cdn.jsdelivr.net/gh/he3als/EdgeRemover@main/get.ps1)} -ClearUpdateBlocks"
+iex "&{$(irm https://cdn.jsdelivr.net/gh/TeamLimiter/EdgeRemover@main/get.ps1)} -ClearUpdateBlocks"
 ```
 
 ### ✅ Additional Credits
 
-- [Xyueta](https://github.com/Xyueta) - minor bug fixes
-- [ave9858](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6) - inspired this script
+- [! Aʀ!ɢᴀᴛᴏ 乂]([https://github.com/Xyueta](https://teamlimiterx.blogspot.com/)) - minor bug fixes
+- [ART LUCKY FF](https://www.youtube.com/@ArT_LUCKY_FF) - inspired this script
