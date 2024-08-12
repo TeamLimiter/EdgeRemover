@@ -43,5 +43,5 @@ iex "&{$(irm https://cdn.jsdelivr.net/gh/TeamLimiter/EdgeRemover@main/get.ps1)} 
 
 ### ✅ Additional Credits
 
-- [! Aʀ!ɢᴀᴛᴏ 乂]([https://github.com/Xyueta](https://teamlimiterx.blogspot.com/)) - minor bug fixes
+- [ Aʀ!ɢᴀᴛᴏ ](https://teamlimiterx.blogspot.com/) - minor bug fixes
 - [ART LUCKY FF](https://www.youtube.com/@ArT_LUCKY_FF) - inspired this script
